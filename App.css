@@ -1,0 +1,32 @@
+body{
+  background-color: blueviolet;
+}
+
+.container{
+  text-align: center;
+  height: 300px;
+  width: 500px;
+  margin-left: 380px;
+  background-color: aquamarine;
+}
+
+.head{
+  background-color: black;
+  color: bisque;
+}
+
+input{
+  width: 300px;
+  height: 30px;
+  background-color: white;
+  margin-top: 20px;
+}
+
+button{
+  width: 80px;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  border-radius: 6px;
+  margin-top: 20px;
+}
